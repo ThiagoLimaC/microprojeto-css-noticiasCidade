@@ -93,6 +93,12 @@ body.fotos #navegacao a#fotos
     margin: 0 0 20px 195px;
 }
 
+#lateral {
+    width: 180px;
+    margin: 0 0 20px -750px;
+    float: left;
+}
+
 #secundario {
     width: 270px;
     float: left;
@@ -116,3 +122,43 @@ h2 {
     background: #fff;
     margin-top: 5px;
 }
+
+/* Formatar menus laterais */
+
+#lateral ul a {
+    font-size: 0.9em;
+    padding: 3px;
+    display: block;
+    line-height: 30px;
+    color: #000;
+    text-decoration: none;
+    border-bottom: 1px solid #f3f3f3;
+}
+
+#lateral ul a:hover {
+    color: #a1a1a1;
+    background: #f9f9f9 url(imagens/marcador.png) no-repeat left center;
+}
+
+/* Formatando formulários  */
+
+label {
+    display: block;
+    cursor: pointer;
+}
+
+input {
+    padding: 5px;
+    width: 125px;
+    font-size: 0.9em;
+    background-color: #fff;
+    margin-top: 5px;
+}
+
+input.submit {
+    width: 80px;
+    color: #fff;
+    background-color: #b10333;
+    border: 2px solid #970529;
+}
+
