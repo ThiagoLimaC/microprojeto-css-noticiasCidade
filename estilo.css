@@ -93,6 +93,12 @@ body.fotos #navegacao a#fotos
     margin: 0 0 20px 195px;
 }
 
+#secundario {
+    width: 270px;
+    float: left;
+    margin: 0 0 20px 15px;
+}
+
 .caixa {
     background: #f3f3f3 url(imagens/fundo-caixa.png);
     margin: 10px 0;
