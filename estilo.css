@@ -110,9 +110,8 @@ body.fotos #navegacao a#fotos
 }
 
 #uma-coluna #primario {
-    width: 270px;
-    float: left;
-    margin: 0 0 20px 15px;
+    width: 750px;
+    margin: 0 0 20px 0;
 }
 
 .caixa {
