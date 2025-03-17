@@ -1,6 +1,6 @@
 # Projeto Notícias da Cidade
 
-![imagem projeto](imagens/print.png)
+![imagem projeto](imagens/print.jpeg)
 
 
 ### Descrição
