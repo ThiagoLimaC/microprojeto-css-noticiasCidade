@@ -18,6 +18,6 @@ O projeto Notícias da Cidade foi criado para consolidar conhecimentos sobre flu
 
 ### Créditos
 ---
-Este projeto foi desenvolvido com base no aprendizado adquirido no curso Desenvolvimento Web Completo da Udemy, ministrado pelo professor Jamilton Damasceno.
+Este projeto foi desenvolvido com base no aprendizado adquirido no curso Desenvolvimento Web Completo da Udemy, ministrado pelo professor Weberson Rodrigues.
 
-Agradecimentos ao professor pela abordagem didática e prática que tornou possível a criação deste projeto, além de incentivar o desenvolvimento de habilidades em frontend.
+Agradecimentos ao professor pela abordagem didática e prática que tornou possível a criação deste projeto, além de incentivar o desenvolvimento de habilidades em backend.
